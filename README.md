@@ -5,8 +5,17 @@
 </p>
 
 ## Overview
-During the Computer Networks course, I studied various aspects of network communication, including HTTP protocols. Throughout the course, I developed programs that can act as clients, proxies, or servers, and gained hands-on experience in building network applications.
+The Computer Networks course that I completed provided me with in-depth knowledge, up to the implementation level, of various network protocols. These protocols include:
 
-As part of the course, I participated in laboratory sessions where I worked on projects that involved modifying the starting code to add new functionalities. The projects challenged me to apply the knowledge I had learned in class to real-world scenarios and to improve my skills in network programming and application development.
+* HyperText-Transport-Protocol 1.0 and 1.1
+* Transmission Control Protocol
+* User Datagram Protocol
+* Internet Protocol
+* Internet Control Messaging Protocol
+* Address Resolution Protocol
+* Ethernet Protocol
+* During the course, I learned how to comprehend protocol specifications, and how to implement the protocols through programming in the C language. I also gained the ability to correct and test protocol implementations.
 
-The projects showcased here are examples of the types of applications that I built during the laboratory sessions of the Computer Networks course. Each project demonstrates my ability to create functional and efficient network programs and to solve complex problems related to network communication.
+The course covered the study of network protocols following the OSI model, in a top-down approach, from the application layer (Layer 7) to the data link layer (Layer 2). Topics covered in the course include the comparison between the client-server and peer-to-peer models, as well as the Publish/Subscribe/Notify model.
+
+I also learned about various network protocols, such as HTTP, DNS, TCP, UDP, IP, ICMP, ARP, and Ethernet. The course also covered the concept of middleboxes, including Firewalling, NAT/NAPT, Proxy, and Tunneling. Through the course, I gained the knowledge and skills necessary to develop and implement network applications, and to troubleshoot issues related to network communication.
